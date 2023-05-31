@@ -10730,13 +10730,13 @@ body{
   background-position: center;
   background-size: cover;
 }
-.intro {
-position: relative;
+.intro{
+  position: relative;
 }
-.clrfx::after {
-display: block;
-clear: both;
-content: "";
+.clrfx::after{
+  display: block;
+  clear: both;
+  content: "";
 }
 @media (min-width: 992px) {
 .intro-txt {
@@ -10780,7 +10780,7 @@ content: "";
   margin-bottom: 7px;
 }
 .days-em{
-  font-family: MingLiU_HKSCS-ExtB;
+  font-family: 'Bitter', serif;
   font-weight: 400;
 }
 .bordering::before{
